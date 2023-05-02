@@ -1,1 +1,1 @@
-# Final-Project
+Проект содержит UI тесты ЛК "Ростелеком": https://b2c.passport.rt.ru тест кейсы расписаны в файле https://docs.google.com/spreadsheets/d/1tq21wJbikDxZWSfEcClQZwe5qrI-21bFKO0bkZWRLSo/edit#gid=0 для запуска тестов укажите путь для вашего вебдрайвера в файле conftest.py
